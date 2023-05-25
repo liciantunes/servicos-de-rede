@@ -1,0 +1,17 @@
+.cabecalho{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large; 
+}
+
+.corpo{
+    background-color: rgb(143, 182, 221);  
+}
+
+.city {
+	background-color: rgb(159, 134, 216);
+	color: rgb(37, 18, 18);
+	border: 2px solid black;
+	margin: 20px;
+	padding: 20px;
+}
+
