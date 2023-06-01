@@ -8,9 +8,9 @@
 }
 
 .city {
-	background-color: rgb(159, 134, 216);
+	background-color: rgb(207, 94, 121);
 	color: rgb(37, 18, 18);
-	border: 2px solid black;
+	border: 2px solid rgb(0, 0, 0);
 	margin: 20px;
 	padding: 20px;
 }
